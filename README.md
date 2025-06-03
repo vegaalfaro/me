@@ -67,7 +67,7 @@ I am also super interested in agribusiness, entrepreneurship and poetry. I am or
 
 ## Projects
 
-Check out my projects and packages on [GitHub](https://github.com/vega-alfaro), including:
+Check out my projects and packages on [GitHub](https://github.com/vegaalfaro), including:
 - `geneticMapR`: Tools for linkage mapping and haplotype visualization in R  
 - `LDdecayR`: Custom functions for estimating and plotting linkage disequilibrium  
 - Ongoing research in genetics, crop diversity, and science communication  
