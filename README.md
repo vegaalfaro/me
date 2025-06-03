@@ -27,7 +27,7 @@ I am also super interested in agribusiness, entrepreneurship and poetry. I am or
 
 ---
 
-## 🧪 Experience
+## Experience
 
 ### Plant Breeding Research Associate  
 **University of Wisconsin–Madison** | *Sep 2023 – Present*  
@@ -58,14 +58,14 @@ I am also super interested in agribusiness, entrepreneurship and poetry. I am or
 
 ---
 
-## 🌍 Languages
+## Languages
 
 - Spanish & English (Native proficiency)  
 - Italian (Intermediate A2, MCER)  
 
 ---
 
-## 📂 Projects
+## Projects
 
 Check out my projects and packages on [GitHub](https://github.com/vega-alfaro), including:
 - `geneticMapR`: Tools for linkage mapping and haplotype visualization in R  
@@ -81,4 +81,4 @@ Feel free to reach out via email or LinkedIn for collaboration opportunities, co
 ---
 
 > *"Local roots, global fruits."*  
-> — A vision for plant breeding that connects tradition, science, and the future
+>  A vision for plant breeding that connects tradition, science, and the future
