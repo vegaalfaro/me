@@ -4,7 +4,7 @@ logo: /assets/headshot.jpg
 theme: minima
 
 header_pages:
-  - blog.md
   - index.md
+  - blog.md
   - interests.md
   - coffee.md
