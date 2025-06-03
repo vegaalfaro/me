@@ -2,7 +2,7 @@
 title: Home
 ---
 
-![My headshot](./assets/headshot.jpg)
+![Out standing in the field](./assets/field.jpg)
 
 🇺🇸 Madison, WI & 🇨🇷 Sarchí, Costa Rica  
 [LinkedIn](https://www.linkedin.com/in/vegaalfaro) | [GitHub](https://github.com/vegaalfaro) | [Publications](https://orcid.org/0000-0002-3293-9456)  
@@ -81,6 +81,10 @@ Check out my projects and packages on [GitHub](https://github.com/vegaalfaro), i
 ## Contact
 
 Feel free to reach out via email (vega.andrey@gmail.com) or LinkedIn for collaboration opportunities, consulting, or a good chat about seeds, science, and storytelling.
+
+---
+
+![My headshot](./assets/headshot.jpg)
 
 ---
 
