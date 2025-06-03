@@ -21,6 +21,7 @@ Nature genetics, 2024
 [Read here](https://www.nature.com/articles/s41588-024-01695-w)
 
 This paper explores coffee's population genomics and the diversification history of modern varieties!
+
 ---
 
 ## Favorite Coffee Paper 2
