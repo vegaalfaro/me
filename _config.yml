@@ -4,5 +4,9 @@ title: Andrey Alonso Vega, PhD
 #description: Plant Breeder, Costa Rica
 show_downloads: true
 theme: jekyll-theme-minimal
+author :
+  name : Andrey Alonso Vega
+  email : vega.andrey@gmail.com
+  github : vegaalfaro
 
 
