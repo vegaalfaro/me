@@ -2,6 +2,8 @@
 title: Home
 ---
 
+![My headshot](./assets/headshot.jpg)
+
 🇺🇸 Madison, WI & 🇨🇷 Sarchí, Costa Rica  
 [LinkedIn](https://www.linkedin.com/in/vegaalfaro) | [GitHub](https://github.com/vegaalfaro) | [Publications](https://orcid.org/0000-0002-3293-9456)  
 
