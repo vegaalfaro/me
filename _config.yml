@@ -1,12 +1,14 @@
-url: https://vegaalfaro.github.io/
-title: Andrey Alonso Vega, PhD
-#logo: assets/headshot.png
-#description: Plant Breeder, Costa Rica
-show_downloads: true
-theme: jekyll-theme-minimal
-author :
-  name : Andrey Alonso Vega
-  email : vega.andrey@gmail.com
-  github : vegaalfaro
+url: "https://vegaalfaro.github.io"
+title: "Andrey Alonso Vega, PhD"
+theme: minima
+author:
+  name: Andrey Alonso Vega
+  email: vega.andrey@gmail.com
+
+header_pages:
+  - index.md
+  - blog.md
+  - publications.md
+  - projects.md
 
 
