@@ -1,12 +1,10 @@
 
 title: "Andrey Alonso Vega, PhD"
 theme: minima
-author:
-  email: vega.andrey@gmail.com
 
 header_pages:
-  - index.md
   - blog.md
+  - index.md
   - interests.md
 
 
