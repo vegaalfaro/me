@@ -2,7 +2,7 @@
 title: Home
 ---
 
-![Out standing in the field](./assets/field.jpg)
+![Out standing in the field](./assets/field.jpeg)
 
 🇺🇸 Madison, WI & 🇨🇷 Sarchí, Costa Rica  - Originally from Costa Rica. Tico de Corazon.
 [LinkedIn](https://www.linkedin.com/in/vegaalfaro) | [GitHub](https://github.com/vegaalfaro) | [Publications](https://orcid.org/0000-0002-3293-9456)  
