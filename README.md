@@ -1,7 +1,7 @@
 # Andrey Vega Alfaro, PhD
 
-📍 Madison, WI & Sarchí, Costa Rica  
-🔗 [LinkedIn](https://www.linkedin.com/in/yourusername) | [GitHub](https://github.com/vega-alfaro) | [Publications](https://orcid.org/0000-0002-3293-9456)  
+🇺🇸 Madison, WI & 🇨🇷 Sarchí, Costa Rica  
+[LinkedIn](https://www.linkedin.com/in/yourusername) | [GitHub](https://github.com/vega-alfaro) | [Publications](https://orcid.org/0000-0002-3293-9456)  
 
 
 ---
