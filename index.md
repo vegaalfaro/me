@@ -14,7 +14,7 @@ title: Home
 
 I am a plant breeder and geneticist passionate about building food systems through science and innovation. My work spans crops like beet, carrot, onion, tomato, pepper, and coffee, with a focus on integrating molecular tools, phenotypic data, and farmer-centered practical approaches. I am currently a Postdoctoral Research Associate at the University of Wisconsin–Madison, where I lead R&D efforts for root vegetable breeding and genetics.
 
-I am also super interested in agribusiness, entrepreneurship and poetry. I am originally from Costa Rica and my favority music is reggaeton but I also like classical performance.
+I am also super interested in agribusiness, entrepreneurship and poetry. I am originally from Costa Rica and my favority music genera is reggaeton but I also like classical performance specially [Beethoven's 9th](https://www.youtube.com/watch?v=rOjHhS5MtvA) by my beloved [Chicago Symphony Orchestra](https://cso.org/) and [Maestro Mutti](https://www.riccardomuti.com/en/)
 
 ---
 
@@ -73,14 +73,14 @@ I am also super interested in agribusiness, entrepreneurship and poetry. I am or
 
 Check out my projects and packages on [GitHub](https://github.com/vegaalfaro), including:
 - `geneticMapR`: Tools for linkage mapping and haplotype visualization in R  
-- `LDdecayR`: Custom functions for estimating and plotting linkage disequilibrium  
-- Ongoing research in genetics, crop diversity, and science communication  
+- Ongoing research in GWAS, table beet genetics, crop diversity, and science communication
+
 
 ---
 
 ## Contact
 
-Feel free to reach out via email or LinkedIn for collaboration opportunities, consulting, or a good chat about seeds, science, and storytelling.
+Feel free to reach out via email (vega.andrey@gmail.com) or LinkedIn for collaboration opportunities, consulting, or a good chat about seeds, science, and storytelling.
 
 ---
 
